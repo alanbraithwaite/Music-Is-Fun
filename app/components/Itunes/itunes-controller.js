@@ -17,7 +17,7 @@ function drawSongs(results) {
     if (song.preview.includes("audio")) {
 
       template += `
-      <li><img src="${song.albumArt}" alt="">
+      <li ><img src="${song.albumArt}" alt="">
         <p>${song.title}</p>
         <p>${song.artist}</p>
         <p>${song.collection} : $${song.price}</p>

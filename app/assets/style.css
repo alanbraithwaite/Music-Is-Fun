@@ -1,0 +1,24 @@
+
+.bg-image{ 
+  background-size: cover;
+  background-image: url("https://images.unsplash.com/photo-1504466270223-361e33021f6c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f7f4022380f2a1bb821d8098c9192ac2&auto=format&fit=crop&w=1950&q=80");
+  /* background-color: rgb(156, 131, 179); */
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+
+
+
+
+
+ul {
+  background-color: rgba(0, 0, 255, 0.514);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+word-wrap: break-word;
+color: blanchedalmond;
+}
