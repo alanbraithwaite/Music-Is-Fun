@@ -21,7 +21,7 @@ function drawSongs(results) {
         <p>${song.title}</p>
         <p>${song.artist}</p>
         <p>${song.collection} : $${song.price}</p>
-        <button type="button" id="preview${index}"> Preview
+        <button type="button" class="preview" id="preview${index}"> Preview
         </button>
       </li>
 `

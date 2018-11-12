@@ -8,17 +8,20 @@
   position: relative;
 }
 
-
-
-
-
-
 ul {
-  background-color: rgba(0, 0, 255, 0.514);
+  background-color: rgba(52, 72, 85, 0.63);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
 word-wrap: break-word;
-color: blanchedalmond;
+color: white;
+border-bottom: 20px
+}
+
+
+li {
+  margin-bottom: 30px;
+border-style: solid;
+border-color:white
 }
